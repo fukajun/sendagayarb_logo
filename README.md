@@ -1,0 +1,2 @@
+# Sendagaya.rb logo
+
